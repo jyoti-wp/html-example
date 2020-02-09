@@ -1,0 +1,347 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.wrapper{
+    width: 100%;
+    max-width: 1000px;
+}
+
+.header{
+    float: left;
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+
+.header_box{
+    float: left;
+    height: 300px;
+    width: 100%;
+    background-color: aqua;
+}   
+.one{
+    float: left;
+    width: 50%;
+    height: 300px;
+    background-color: blue;
+}
+
+.two{
+    float: left;
+    width: 50%;
+    height: 300px;
+    background-color: blueviolet;
+}
+
+.alpha{
+    float: left;
+    height: 300px;
+    width: 50%;
+    background-color: brown;
+}
+
+.charlie{
+    float: left;
+    height: 300px;
+    width: 50%;
+    background-color: burlywood;
+}
+
+.bravo{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: cadetblue;
+}
+.delta{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: chartreuse;
+}
+
+.section{
+    float: left;
+    width: 100%;
+    height: 600px;
+    background-color: chocolate;
+}
+.section_box{
+    float: left;
+    height: 600px;
+    width: 100%;
+    background-color: coral;
+}
+.section_a{
+    float: left;
+    width: 100%;
+    height: 300px;
+    background-color: cornflowerblue;
+}
+
+.section_b{
+    float: left;
+    height: 300px;
+    width: 100%;
+    background-color: cornsilk;
+}
+.x{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: crimson;
+}
+
+.y{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: cyan;
+}
+
+.ab{
+    float: left;
+    height: 150px;
+    width: 50%;
+    background-color: darkblue;
+}
+.cd{
+    float: left;
+    height: 150px;
+    width: 50%;
+    background-color: darkcyan;
+}
+
+.priya{
+    float: left;
+    width: 100%;
+    height: 75px;
+    background-color: darkgoldenrod;
+}
+
+.sean{
+    float: left;
+    height: 75px;
+    width: 100%;
+    background-color: darkgray;
+}
+.rucha{
+    float: left;
+    height: 150PX;
+    width: 50%;
+    background-color: darkgreen;
+}
+
+.vicky{
+    float: left;
+    height: 150px;
+    width: 50%;
+    background-color: darkgrey;
+}
+.kakka{
+    float: left;
+    height: 150px;
+    width: 20%;
+    background-color: darkkhaki;
+}
+
+.kakki{
+    float: left;
+    height: 150px;
+    width: 60%;
+    background-color: darkmagenta;
+}
+
+.kukku{
+    float: left;
+    height: 150px;
+    width: 20%;
+    background-color: darkolivegreen;
+}
+
+.india{
+    float: left;
+    height: 75px;
+    width: 100%;
+    background-color: darkorange;
+}
+
+.china{
+    float: left;
+    height: 75px;
+    width: 100%;
+    background-color: darkorchid;
+}
+
+.usa{
+    float: left;
+    height: 75px;
+    width: 50%;
+    background-color: darkred;
+}
+
+.uk{
+    float: left;
+    width: 50%;
+    height: 75px;
+    background-color: darksalmon;
+}
+.iraq{
+    float: left;
+    height: 75px;
+    width: 100%;
+    background-color: darksalmon;
+}
+
+.japan{
+    float: left;
+    height: 75px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.georgia{
+    float: left;
+    width: 33.33%;
+    height: 300px;
+    background-color: yellow;
+}
+
+.newyork{
+    float: left;
+    height: 300px;
+    width: 33.33%;
+    background-color: maroon;
+}
+
+.newjersey{
+    float: left;
+    height: 300px;
+    width: 33.33%;
+    background-color: orangered;
+}
+
+.brooklyn{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: turquoise;
+}
+.manhattan{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: tomato;
+    
+}
+.yonkers{
+    float: left;
+    height: 150px;
+    width: 50%;
+    background-color: thistle;
+}
+
+.irvington{
+    float: left;
+    height: 150px;
+    width: 50%;
+    background-color: teal;
+}
+.london{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: grey;
+}
+.england{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: chartreuse;
+
+}
+.ireland{
+    float: left;
+    height: 150px;
+    width: 50%;
+    background-color: teal;
+}
+.scotland{
+    float: left;
+    height: 150px;
+    width: 50%;
+    background-color: black;
+}
+.footer{
+    float: left;
+    height: 300px;
+    width: 100%;
+    background-color: brown;
+}
+.footer_one{
+    float: left;
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+}
+
+.mango{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: black;
+}
+.orange{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: blueviolet;
+}
+.apple{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-color: aqua;
+}
+.grapes{
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: black;
+}
+.banana{
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: yellow;
+}
+.jill{
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: teal;
+}
+.jack{
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: steelblue;
+}
+.pineapple{
+    float: left;
+    width: 25%;
+    height: 150px;
+    background-color: violet;
+}
+.julie{
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: green;
+}
+.jude{
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: orange;
+}
